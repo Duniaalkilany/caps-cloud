@@ -1,0 +1,23 @@
+{
+  "name": "caps-cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duniaalkilany/caps-cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duniaalkilany/caps-cloud/issues"
+  },
+  "homepage": "https://github.com/Duniaalkilany/caps-cloud#readme",
+  "dependencies": {
+    "sqs-producer": "^2.1.0"
+  }
+}
