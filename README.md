@@ -30,7 +30,7 @@
 * ### pull request :
 [PR](https://github.com/Duniaalkilany/caps-cloud/pull/1) :
 
-https://github.com/Duniaalkilany/serverless-api/pull/1
+https://github.com/Duniaalkilany/caps-cloud/pull/1
 
 
 
