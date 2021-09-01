@@ -6,7 +6,7 @@
 * ### Munther Abdlrahman
 
 ## description
-  ###  single resource REST API using a domain model of your choosing, constructed using AWS Cloud Services .
+  ### Using only AWS Services: SQS, SNS, Lambda, create a cloud version of the CAPS system
 
 
 
